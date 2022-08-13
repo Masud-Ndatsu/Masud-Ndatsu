@@ -21,37 +21,17 @@ I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving pro
 
 #### 🛠️ **Languages**
 
-[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![golang](https://img.shields.io/badge/golang%20-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white) 
+
 ![javascript](https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
-[![rust-lang](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
 [![sql](https://img.shields.io/badge/SQL-3376C8?style=for-the-badge&logo=sql&logoColor=white)](https://www.mysql.com/)
-[![c-plus-plus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://isocpp.org/)
-[![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
-[![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
+[![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 
 #### **Frameworks & Tools**
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/3.2/) [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/) [![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-
-[![celery](https://img.shields.io/badge/celery-348613?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev/en/latest/index.html)
-[![airflow](https://img.shields.io/badge/airflow-4285F4?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=beautifulsoup4&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-<!-- [![TF](https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![SkL](https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![pyspark](https://img.shields.io/badge/PySpark-663EE8?style=for-the-badge&logo=pyspark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/) -->
-<!-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
-[![scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org/docs.html) -->
-<!-- [![dask](https://img.shields.io/badge/Dask-EE4C2C?style=for-the-badge&logo=dask&logoColor=white)](https://docs.dask.org/en/latest/) -->
 [![git-scm](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-<!-- [![dvc](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)](https://dvc.org/doc)
-[![numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white)](https://numba.pydata.org/numba-doc/latest/index.html) -->
+
 
 #### **Database**
 
