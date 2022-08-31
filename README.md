@@ -9,5 +9,5 @@ I am a backend developer based in Fct-Abuja, Nigeria. I enjoy solving problems a
 
 - 👯 I’m looking to collaborate on Open Source projects. 
 - 🧐 I have keen interest in math, economics, programming, and science.
-- 🌱 I’m addicted to learning and growing every day. I’m currently learning Rust 🦀.
+- 🌱 I’m addicted to learning and growing every day. I’m currently learning Golang and microservices architechure.
 
