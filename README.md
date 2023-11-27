@@ -1,6 +1,6 @@
 <!-- ## Mas'ud Ndatsu 👋 | Backend Developer | Data Engineering | Devops | Nodejs | Express | JavaScript -->
 ## Mas'ud Ndatsu [<img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="20" height="20" align="absmiddle">](https://github.com/anudeepsamaiya)
-### Backend Developer | Data Engineering 
+## NodeJS Backend Developer | Data Engineering 
 
 #### Hey there 👋,
 "Hello, I'm Ndatsu Mas'ud. I've been working in the world of Node.js development for nearly half a decade, and it's been an incredibly exciting journey. I've had the opportunity to delve into the intricacies of server-side JavaScript and build scalable, efficient applications that power various functionalities across different domains.
