@@ -23,7 +23,6 @@ I believe my experiences, coupled with my continuous drive to learn and adapt, m
 * ⚡  Ask me about Typescript, React, NextJs , Nodejs, and Python.
 
 ## Skills
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -38,3 +37,15 @@ I believe my experiences, coupled with my continuous drive to learn and adapt, m
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Masud-Ndatsu"><img src="https://github-readme-stats.vercel.app/api?username=benrobo&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="benrobo's GitHub stats" /></a>
+
+<a href="http://www.github.com/Masud-Ndatsu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=benrobo&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masud-Ndatsu&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masud-Ndatsu&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masud-Ndatsu&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Ndatsu&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud-Ndatsu&theme=dracula)
