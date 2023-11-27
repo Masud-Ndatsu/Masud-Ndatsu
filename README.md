@@ -17,7 +17,10 @@ I believe my experiences, coupled with my continuous drive to learn and adapt, m
 
 **Skills:** JavaScript / TypeScript / Nodejs / MongoDB / PostgreSQL / MySQL
 
-- 👯 I’m looking to collaborate on Open Source projects. 
-- 🧐 I have a keen interest in math, economics, programming, and science.
-- 🌱 I’m addicted to learning and growing every day. I’m currently learning Java, Golang, and microservices architecture.
+* 🌍  I'm based in nigeria.
+* ✉️  You can contact me at [masudndatsu@gmail.com](mailto:masudndatsu@gmail.com)
+* 🚀  I'm currently working on **A tool to solve my day to day problems**
+* 🧠  I'm learning System Design, Python, Typescript, DSA
+* 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Backend.
+* ⚡  Ask me about Typescript, React, NextJs , Nodejs, and Python.
 
