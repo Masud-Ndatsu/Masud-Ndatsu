@@ -41,7 +41,6 @@ I believe my experiences, coupled with my continuous drive to learn and adapt, m
 
 <a href="http://www.github.com/Masud-Ndatsu"><img src="https://github-readme-stats.vercel.app/api?username=Masud-Ndatsu&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Mas'ud's GitHub stats" /></a>
 
-<a href="http://www.github.com/Masud-Ndatsu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=benrobo&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masud-Ndatsu&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masud-Ndatsu&theme=dracula)
