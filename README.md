@@ -30,8 +30,4 @@
 <a href="http://www.github.com/Masud-Ndatsu"><img src="https://github-readme-stats.vercel.app/api?username=Masud-Ndatsu&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Mas'ud's GitHub stats" /></a>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masud-Ndatsu&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masud-Ndatsu&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masud-Ndatsu&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Ndatsu&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud-Ndatsu&theme=dracula)
+
