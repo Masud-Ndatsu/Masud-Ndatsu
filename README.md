@@ -1,5 +1,4 @@
-<!-- ## Mas'ud Ndatsu 👋 | Backend Developer | Data Engineering | Devops | Nodejs | Express | JavaScript -->
-## Mas'ud Ndatsu [<img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="20" height="20" align="absmiddle">](https://github.com/anudeepsamaiya)
+## Mas'ud Ndatsu 👋 | Backend Developer | Data Engineering | Devops | Nodejs | Express | JavaScript
 ## Fullstack Developer | MERN Stack
 
 #### Hey there 👋,
@@ -28,6 +27,3 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Masud-Ndatsu"><img src="https://github-readme-stats.vercel.app/api?username=Masud-Ndatsu&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Mas'ud's GitHub stats" /></a>
-
-
-
