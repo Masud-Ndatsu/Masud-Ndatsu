@@ -1,4 +1,4 @@
-## Mas'ud Ndatsu 👋 | Backend Developer | Data Engineering | Devops | Nodejs | Express | JavaScript
+## Mas'ud Ndatsu 👋 | Backend Developer | Blockchain | Devops | Nodejs | Express | JavaScript
 ## Fullstack Developer | MERN Stack
 
 #### Hey there 👋,
