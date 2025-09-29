@@ -1,5 +1,4 @@
-## Mas'ud Ndatsu 👋 | Backend Developer | Blockchain | Devops | Nodejs | Express | JavaScript
-## Fullstack Developer | MERN Stack
+## Mas'ud Ndatsu 👋 | Software Developer (Backend) | Blockchain | Nodejs | Express | JavaScript
 
 #### Hey there 👋,
 * 🌍  I'm based in Abuja, Nigeria.
