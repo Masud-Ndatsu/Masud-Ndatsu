@@ -1,4 +1,4 @@
-## Mas'ud Ndatsu 👋 | Typescript/JavaScript | Golang | Python
+## Mas'ud Ndatsu 👋 | JavaScript | Golang | Python
 
 #### Hey there 👋,
 * 🌍  I'm based in Abuja, Nigeria.
