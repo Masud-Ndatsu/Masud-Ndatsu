@@ -4,7 +4,6 @@
 📍 Abuja, Nigeria  
 📧 masudndatsu@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mas-ud-ndatsu-2b29831aa)  
-💻 [GitHub](https://github.com/Masud-Ndatsu)
 
 ---
 
