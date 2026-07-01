@@ -52,13 +52,6 @@ I focus on building systems that are:
 
 ---
 
-## 🎓 Education
-
-**B.Sc. Chemistry**  
-Ahmadu Bello University, Zaria  
-
----
-
 ## 📈 Current Focus
 
 - AI-native backend systems
